@@ -1,5 +1,3 @@
-<img width="1280" height="480" src="https://github.com/NeZox16/nezox16/blob/main/assets/76cI.gif" alt="Header">
-
 <div style="display: flex; align-items: flex-start; justify-content: space-between">
     <div>
         <h2>My knowledge</h2>
