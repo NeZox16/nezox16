@@ -2,7 +2,7 @@
     <div>
         <h2>My knowledge</h2>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nezox16" alt="Top Langs">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nezox16&show_icons=true&theme=transparent" alt="Top Langs">
         </a>
     </div>
     <div>
